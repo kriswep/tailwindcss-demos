@@ -1,0 +1,14 @@
+{
+  "name": "tailwinddemos",
+  "version": "1.0.0",
+  "description": "Demos using tailwind css",
+  "main": " ",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
